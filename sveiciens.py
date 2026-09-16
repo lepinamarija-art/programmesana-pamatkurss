@@ -1,1 +1,1 @@
-print("Labdien visiem")
+print("Labdien visiem cālīšiem")
