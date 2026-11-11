@@ -4,3 +4,9 @@ c = 5.5
 print(type(a))
 print(type(b))
 print(type(c))
+print(a + a)
+vards = input("Vards: ")
+punkti = int(input("Ievadi bāzes punktus: "))
+reizinatajs = float(input("Ievadi reizinātāju: "))
+kopa = punkti * reizinatajs
+print(vards, "ieguva", kopa, "punktus")

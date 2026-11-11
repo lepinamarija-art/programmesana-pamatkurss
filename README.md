@@ -6,3 +6,4 @@ Autors: **Marija Lepina**
 -  palaist **terminālā**
 ## Licence
 - projektam ir MIT license to var izmantot brīvi.
+21.py komentars a-str, b-int un c-float
